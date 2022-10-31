@@ -10,8 +10,6 @@ import './assets/library/bootstrap/css/bootstrap-4.4.1.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 
 import './assets/library/font-awesome/css/all.css';
-/* import './assets/library/owlcarousel/css/owl.carousel.min.css';
-import './assets/library/owlcarousel/css/owl.theme.default.min.css'; */
 
 import './assets/css/main.css';
 import './assets/js/custom.js';
