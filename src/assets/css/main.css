@@ -1,0 +1,72 @@
+html, body {
+    height:100%;
+}
+
+.form-control {
+    width: auto;
+}
+
+#container-app-bar {
+    height: 8rem;
+}
+
+#header-form-inline {
+    padding-left: 5%;
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+    .btn-detail {
+        width: auto;
+    }
+
+}
+
+
+@media only screen and (max-width: 575px) {
+
+    #navbar-header .form-control {
+        margin-top: 10px;
+    }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    
+    .btn-detail {
+        width: 100%;
+    }
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+    .btn-detail {
+        width: 100%;
+    }
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+    .btn-detail {
+        width: 60%;
+    }
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    
+    .btn-detail {
+        width: 60%;
+    }
+
+}
+
