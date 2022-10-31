@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-Data source & REST Endpoints are provided by [DummyJSON](https://dummyjson.com/).
+Data source & REST Endpoints are provided by [DummyJSON](https://dummyjson.com/).\
 Official documentation of Products API: [https://dummyjson.com/docs/products](https://dummyjson.com/docs/products).
 
 ## Available Scripts
